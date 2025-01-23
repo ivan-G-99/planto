@@ -1,0 +1,28 @@
+header {
+  /* border: 2px solid #000; */
+  text-align: center;
+}
+
+header h1 {
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #094c1d;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 2.5rem;
+}
+
+header p {
+  font-family: "Nunito Sans", serif;
+  padding-bottom: 15px;
+}
+
+.btn {
+  font-family: "Nunito Sans", serif;
+  background-color: #094c1d;
+  color: white;
+  text-decoration: none;
+  padding: 5px 5px;
+  border-radius: 10px;
+}
